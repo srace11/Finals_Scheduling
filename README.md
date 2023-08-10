@@ -11,4 +11,4 @@ is provided and solve the model using Google OR-Tools.
 As campuses reopen for in-person classes, implementing social distancing measures is a top priority. Students need to maintain a 6-foot 
 distance in lecture halls which means the seating capacity will drop. This is an issue for large and small classes when it comes to room 
 assignments. We want to enable as many students as possible to attend in-person lectures/labs so that they can get immediate help or use 
-the lab computers.  
+the lab computers. This will also be used for when finals are scheduled.
